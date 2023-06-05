@@ -1,0 +1,20 @@
+.product-images-slider {
+  .swiper-button-prev {
+    left: 30;
+    color: rgb(190, 190, 190);
+  }
+
+  .swiper-button-next {
+    right: 50;
+    color: rgb(190, 190, 190);
+  }
+
+  .swiper-pagination-bullet {
+    background-color: rgb(225, 225, 225);
+    opacity: 1;
+  }
+  .swiper-pagination-bullet-active {
+    background-color: rgb(190, 190, 190);
+    opacity: 1;
+  }
+}
