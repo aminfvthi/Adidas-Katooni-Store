@@ -47,11 +47,6 @@
 ![Image of screenshot](https://github.com/aminfdev/adidas-katooni-store/blob/master/client/src/assets/images/screenshots/Screenshot%20from%202023-09-29%2022-58-26.png)
 * Favorites lists
 ![Image of screenshot](https://github.com/aminfdev/adidas-katooni-store/blob/master/client/src/assets/images/screenshots/Screenshot%20from%202023-09-29%2022-58-40.png)
-* Mobile views
-![Image of screenshot](https://github.com/aminfdev/adidas-katooni-store/blob/master/client/src/assets/images/screenshots/Screenshot%20from%202023-09-29%2023-01-28.png)
-![Image of screenshot](https://github.com/aminfdev/adidas-katooni-store/blob/master/client/src/assets/images/screenshots/Screenshot%20from%202023-09-29%2023-01-00.png)
-![Image of screenshot](https://github.com/aminfdev/adidas-katooni-store/blob/master/client/src/assets/images/screenshots/Screenshot%20from%202023-09-29%2023-01-34.png)
-![Image of screenshot](https://github.com/aminfdev/adidas-katooni-store/blob/master/client/src/assets/images/screenshots/Screenshot%20from%202023-09-29%2023-01-39.png) 
 * Admin panel
 ![Image of screenshot](https://github.com/aminfdev/adidas-katooni-store/blob/master/admin/src/assets/images/screenshots/Screenshot%20from%202023-09-29%2023-05-22.png)
 ![Image of screenshot](https://github.com/aminfdev/adidas-katooni-store/blob/master/admin/src/assets/images/screenshots/Screenshot%20from%202023-09-29%2023-06-28.png)
